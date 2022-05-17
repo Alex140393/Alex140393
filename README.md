@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Alex140393
 - 👀 I’m interested in Front-end web development 
-- 🌱 I’m currently learning HTML CSS and JavaScript
 - 💞️ I’m looking to collaborate on Real Web Design Projects
 - 📫 How to reach me ...email me on alexanderfayemiwo140393@gmail.com
 
