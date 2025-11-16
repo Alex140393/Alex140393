@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alexander 
-- 👀 I’m a Web Developer
-- 💞️ I’m looking to collaborate on Real Web Design Projects
+- 👀 I’m a Front-End Web Developer
+
 - 📫 How to reach me ...email me on tosinfayemiwo@hotmail.com
 
 <!---
